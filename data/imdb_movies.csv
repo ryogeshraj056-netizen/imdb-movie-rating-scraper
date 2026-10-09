@@ -1,0 +1,251 @@
+Rank,Movie_Name,Release_Year,IMDb_Rating,Votes,Duration,Genre,Movie_URL,Scraped_DateTime
+1,The Shawshank Redemption,1994,9.3,3249876,2h 22m,Drama,https://www.imdb.com/title/tt0111161/,2026-10-09 22:04:15
+2,The Godfather,1972,9.2,2263116,2h 55m,"Crime, Drama",https://www.imdb.com/title/tt0068646/,2026-10-09 22:04:15
+3,The Dark Knight,2008,9.1,3237014,2h 32m,"Crime, Thriller",https://www.imdb.com/title/tt0468569/,2026-10-09 22:04:15
+4,The Godfather Part II,1974,9.0,1517778,3h 22m,"Crime, Drama",https://www.imdb.com/title/tt0071562/,2026-10-09 22:04:15
+5,The Lord of the Rings: The Return of the King,2003,9.0,2199299,3h 21m,"Adventure, Drama, Fantasy",https://www.imdb.com/title/tt0167260/,2026-10-09 22:04:15
+6,12 Angry Men,1957,9.0,1006840,1h 36m,"Crime, Drama",https://www.imdb.com/title/tt0050083/,2026-10-09 22:04:15
+7,Schindler's List,1993,9.0,1607633,3h 16m,"Biography, Drama, History",https://www.imdb.com/title/tt0108052/,2026-10-09 22:04:15
+8,The Lord of the Rings: The Fellowship of the Ring,2001,8.9,2243244,2h 58m,"Adventure, Drama, Fantasy",https://www.imdb.com/title/tt0120737/,2026-10-09 22:04:15
+9,Pulp Fiction,1994,8.8,2474065,2h 34m,"Crime, Drama",https://www.imdb.com/title/tt0110912/,2026-10-09 22:04:15
+10,The Lord of the Rings: The Two Towers,2002,8.8,1989272,2h 59m,"Adventure, Drama, Fantasy",https://www.imdb.com/title/tt0167261/,2026-10-09 22:04:15
+11,"The Good, the Bad and the Ugly",1966,8.8,903646,2h 58m,"Adventure, Drama, Western",https://www.imdb.com/title/tt0060196/,2026-10-09 22:04:15
+12,Forrest Gump,1994,8.8,2542592,2h 22m,"Drama, Romance",https://www.imdb.com/title/tt0109830/,2026-10-09 22:04:15
+13,Inception,2010,8.8,2877609,2h 28m,"Adventure, Sci-Fi, Thriller",https://www.imdb.com/title/tt1375666/,2026-10-09 22:04:15
+14,Fight Club,1999,8.8,2670449,2h 19m,"Crime, Drama, Thriller",https://www.imdb.com/title/tt0137523/,2026-10-09 22:04:15
+15,Star Wars: Episode V - The Empire Strikes Back,1980,8.7,1527750,2h 4m,"Adventure, Fantasy, Sci-Fi",https://www.imdb.com/title/tt0080684/,2026-10-09 22:04:15
+16,The Matrix,1999,8.7,2284730,2h 16m,"Action, Sci-Fi",https://www.imdb.com/title/tt0133093/,2026-10-09 22:04:15
+17,Interstellar,2014,8.7,2618251,2h 49m,"Adventure, Sci-Fi",https://www.imdb.com/title/tt0816692/,2026-10-09 22:04:15
+18,GoodFellas,1990,8.7,1417592,2h 25m,"Biography, Crime, Drama",https://www.imdb.com/title/tt0099685/,2026-10-09 22:04:15
+19,One Flew Over the Cuckoo's Nest,1975,8.6,1169886,2h 13m,Drama,https://www.imdb.com/title/tt0073486/,2026-10-09 22:04:15
+20,Seven,1995,8.6,2066654,2h 7m,"Crime, Drama, Mystery",https://www.imdb.com/title/tt0114369/,2026-10-09 22:04:15
+21,It's a Wonderful Life,1946,8.6,561087,2h 10m,"Drama, Family, Fantasy",https://www.imdb.com/title/tt0038650/,2026-10-09 22:04:15
+22,The Silence of the Lambs,1991,8.6,1756163,1h 58m,"Crime, Drama, Horror",https://www.imdb.com/title/tt0102926/,2026-10-09 22:04:15
+23,Saving Private Ryan,1998,8.6,1666608,2h 49m,"Drama, War",https://www.imdb.com/title/tt0120815/,2026-10-09 22:04:15
+24,Seven Samurai,1954,8.6,406712,3h 27m,"Action, Drama",https://www.imdb.com/title/tt0047478/,2026-10-09 22:04:15
+25,The Green Mile,1999,8.6,1590264,3h 9m,"Crime, Drama, Fantasy",https://www.imdb.com/title/tt0120689/,2026-10-09 22:04:15
+26,City of God,2002,8.6,884244,2h 10m,"Crime, Drama",https://www.imdb.com/title/tt0317248/,2026-10-09 22:04:15
+27,Life Is Beautiful,1997,8.6,824983,1h 56m,"Comedy, Drama, Romance",https://www.imdb.com/title/tt0118799/,2026-10-09 22:04:15
+28,Terminator 2: Judgment Day,1991,8.6,1305188,2h 17m,"Action, Adventure, Sci-Fi",https://www.imdb.com/title/tt0103064/,2026-10-09 22:04:15
+29,Back to the Future,1985,8.5,1480588,1h 56m,"Adventure, Comedy, Sci-Fi",https://www.imdb.com/title/tt0088763/,2026-10-09 22:04:15
+30,Star Wars: Episode IV - A New Hope,1977,8.6,1592638,2h 1m,"Action, Adventure, Fantasy",https://www.imdb.com/title/tt0076759/,2026-10-09 22:04:15
+31,Spirited Away,2001,8.6,988174,2h 4m,"Animation, Adventure, Family",https://www.imdb.com/title/tt0245429/,2026-10-09 22:04:15
+32,Gladiator,2000,8.5,1887233,2h 35m,"Action, Adventure, Drama",https://www.imdb.com/title/tt0172495/,2026-10-09 22:04:15
+33,The Pianist,2002,8.5,1027807,2h 30m,"Biography, Drama, Music",https://www.imdb.com/title/tt0253474/,2026-10-09 22:04:15
+34,Kill Bill: The Whole Bloody Affair,2004,8.7,62972,4h 13m,"Action, Crime, Thriller",https://www.imdb.com/title/tt6019206/,2026-10-09 22:04:15
+35,Parasite,2019,8.5,1201221,2h 12m,"Drama, Thriller",https://www.imdb.com/title/tt6751668/,2026-10-09 22:04:15
+36,Grave of the Fireflies,1988,8.5,398373,1h 28m,"Animation, Drama, War",https://www.imdb.com/title/tt0095327/,2026-10-09 22:04:15
+37,Harakiri,1962,8.6,94741,2h 13m,"Drama, Mystery",https://www.imdb.com/title/tt0056058/,2026-10-09 22:04:15
+38,The Lion King,1994,8.5,1280956,1h 28m,"Animation, Adventure, Drama",https://www.imdb.com/title/tt0110357/,2026-10-09 22:04:15
+39,Psycho,1960,8.5,796331,1h 49m,"Drama, Horror, Mystery",https://www.imdb.com/title/tt0054215/,2026-10-09 22:04:15
+40,The Departed,2006,8.5,1583371,2h 31m,"Crime, Drama, Thriller",https://www.imdb.com/title/tt0407887/,2026-10-09 22:04:15
+41,Whiplash,2014,8.5,1186057,1h 46m,"Drama, Music",https://www.imdb.com/title/tt2582802/,2026-10-09 22:04:15
+42,The Prestige,2006,8.5,1632268,2h 10m,"Drama, Mystery, Sci-Fi",https://www.imdb.com/title/tt0482571/,2026-10-09 22:04:15
+43,American History X,1998,8.5,1289350,1h 59m,"Crime, Drama",https://www.imdb.com/title/tt0120586/,2026-10-09 22:04:15
+44,Spider-Man: Across the Spider-Verse,2023,8.5,557186,2h 20m,"Animation, Action, Adventure",https://www.imdb.com/title/tt9362722/,2026-10-09 22:04:15
+45,Cinema Paradiso,1988,8.5,321661,2h 54m,"Drama, Romance",https://www.imdb.com/title/tt0095765/,2026-10-09 22:04:15
+46,Léon: The Professional,1994,8.5,1368894,1h 50m,"Action, Crime, Drama",https://www.imdb.com/title/tt0110413/,2026-10-09 22:04:15
+47,Casablanca,1942,8.5,662409,1h 42m,"Drama, Romance, War",https://www.imdb.com/title/tt0034583/,2026-10-09 22:04:15
+48,The Intouchables,2011,8.5,1044866,1h 52m,"Comedy, Drama",https://www.imdb.com/title/tt1675434/,2026-10-09 22:04:15
+49,The Usual Suspects,1995,8.5,1257528,1h 46m,"Crime, Drama, Mystery",https://www.imdb.com/title/tt0114814/,2026-10-09 22:04:15
+50,Django Unchained,2012,8.5,1918956,2h 45m,"Drama, Western",https://www.imdb.com/title/tt1853728/,2026-10-09 22:04:15
+51,Alien,1979,8.4,1079310,1h 57m,Sci-Fi,https://www.imdb.com/title/tt0078748/,2026-10-09 22:04:15
+52,Rear Window,1954,8.4,575159,1h 52m,"Drama, Mystery, Thriller",https://www.imdb.com/title/tt0047396/,2026-10-09 22:04:15
+53,Modern Times,1936,8.5,288367,1h 27m,"Comedy, Drama, Romance",https://www.imdb.com/title/tt0027977/,2026-10-09 22:04:15
+54,Once Upon a Time in the West,1968,8.5,388438,2h 25m,"Drama, Western",https://www.imdb.com/title/tt0064116/,2026-10-09 22:04:15
+55,WALL·E,2008,8.4,1345086,1h 38m,"Animation, Adventure, Family",https://www.imdb.com/title/tt0910970/,2026-10-09 22:04:15
+56,City Lights,1931,8.5,218651,1h 27m,"Comedy, Drama, Romance",https://www.imdb.com/title/tt0021749/,2026-10-09 22:04:15
+57,Apocalypse Now,1979,8.4,779690,2h 27m,"Drama, Mystery, War",https://www.imdb.com/title/tt0078788/,2026-10-09 22:04:15
+58,Memento,2000,8.4,1462353,1h 53m,"Mystery, Thriller",https://www.imdb.com/title/tt0209144/,2026-10-09 22:04:15
+59,Avengers: Infinity War,2018,8.4,1416067,2h 29m,"Action, Adventure, Sci-Fi",https://www.imdb.com/title/tt4154756/,2026-10-09 22:04:15
+60,Dune: Part Two,2024,8.4,798042,2h 46m,"Action, Adventure, Drama",https://www.imdb.com/title/tt15239678/,2026-10-09 22:04:15
+61,Raiders of the Lost Ark,1981,8.4,1122900,1h 55m,Adventure,https://www.imdb.com/title/tt0082971/,2026-10-09 22:04:15
+62,Spider-Man: Into the Spider-Verse,2018,8.4,819947,1h 57m,"Animation, Action, Adventure",https://www.imdb.com/title/tt4633694/,2026-10-09 22:04:15
+63,The Odyssey,2026,8.4,523078,2h 52m,"Action, Adventure, Fantasy",https://www.imdb.com/title/tt33764258/,2026-10-09 22:04:15
+64,The Lives of Others,2006,8.4,447891,2h 17m,"Drama, Mystery, Thriller",https://www.imdb.com/title/tt0405094/,2026-10-09 22:04:15
+65,Sunset Boulevard,1950,8.4,264344,1h 50m,"Drama, Film-Noir",https://www.imdb.com/title/tt0043014/,2026-10-09 22:04:15
+66,Witness for the Prosecution,1957,8.4,164999,1h 56m,"Crime, Drama, Mystery",https://www.imdb.com/title/tt0051201/,2026-10-09 22:04:15
+67,Paths of Glory,1957,8.4,243219,1h 28m,"Drama, War",https://www.imdb.com/title/tt0050825/,2026-10-09 22:04:15
+68,Inglourious Basterds,2009,8.4,1822944,2h 33m,"Drama, War",https://www.imdb.com/title/tt0361748/,2026-10-09 22:04:15
+69,The Shining,1980,8.4,1246900,2h 26m,"Drama, Horror",https://www.imdb.com/title/tt0081505/,2026-10-09 22:04:15
+70,The Great Dictator,1940,8.4,260789,2h 5m,"Comedy, Drama, War",https://www.imdb.com/title/tt0032553/,2026-10-09 22:04:15
+71,Aliens,1986,8.4,850002,2h 17m,"Action, Adventure, Sci-Fi",https://www.imdb.com/title/tt0090605/,2026-10-09 22:04:15
+72,High and Low,1963,8.4,73946,2h 23m,"Crime, Drama, Mystery",https://www.imdb.com/title/tt0057565/,2026-10-09 22:04:15
+73,12th Fail,2023,8.7,178474,2h 27m,"Biography, Drama",https://www.imdb.com/title/tt23849204/,2026-10-09 22:04:15
+74,Avengers: Endgame,2019,8.4,1497663,3h 1m,"Action, Adventure, Sci-Fi",https://www.imdb.com/title/tt4154796/,2026-10-09 22:04:15
+75,Good Will Hunting,1997,8.4,1246807,2h 6m,"Drama, Romance",https://www.imdb.com/title/tt0119217/,2026-10-09 22:04:15
+76,Coco,2017,8.4,729886,1h 45m,"Animation, Adventure, Drama",https://www.imdb.com/title/tt2380307/,2026-10-09 22:04:15
+77,Toy Story,1995,8.3,1202431,1h 21m,"Animation, Adventure, Comedy",https://www.imdb.com/title/tt0114709/,2026-10-09 22:04:15
+78,The Dark Knight Rises,2012,8.4,2032119,2h 44m,"Crime, Thriller",https://www.imdb.com/title/tt1345836/,2026-10-09 22:04:15
+79,Amadeus,1984,8.4,474363,2h 40m,"Biography, Drama, Music",https://www.imdb.com/title/tt0086879/,2026-10-09 22:04:15
+80,Your Name.,2016,8.4,407133,1h 46m,"Animation, Drama, Fantasy",https://www.imdb.com/title/tt5311514/,2026-10-09 22:04:15
+81,3 Idiots,2009,8.4,490927,2h 50m,"Comedy, Drama",https://www.imdb.com/title/tt1187043/,2026-10-09 22:04:15
+82,Das Boot,1981,8.3,291032,2h 29m,"Drama, War",https://www.imdb.com/title/tt0082096/,2026-10-09 22:04:15
+83,Braveheart,1995,8.3,1174143,2h 58m,"Drama, War",https://www.imdb.com/title/tt0112573/,2026-10-09 22:04:15
+84,Princess Mononoke,1997,8.3,492377,2h 13m,"Animation, Adventure, Fantasy",https://www.imdb.com/title/tt0119698/,2026-10-09 22:04:15
+85,Oldboy,2003,8.3,734920,2h,"Action, Drama, Mystery",https://www.imdb.com/title/tt0364569/,2026-10-09 22:04:15
+86,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,8.3,555451,1h 35m,"Comedy, War",https://www.imdb.com/title/tt0057012/,2026-10-09 22:04:15
+87,American Beauty,1999,8.3,1290099,2h 2m,Drama,https://www.imdb.com/title/tt0169547/,2026-10-09 22:04:15
+88,Capernaum,2018,8.4,127387,2h 6m,Drama,https://www.imdb.com/title/tt8267604/,2026-10-09 22:04:15
+89,Singin' in the Rain,1952,8.3,286457,1h 43m,"Comedy, Musical, Romance",https://www.imdb.com/title/tt0045152/,2026-10-09 22:04:15
+90,Once Upon a Time in America,1984,8.3,412985,3h 49m,"Crime, Drama",https://www.imdb.com/title/tt0087843/,2026-10-09 22:04:15
+91,Joker,2019,8.3,1729986,2h 2m,Drama,https://www.imdb.com/title/tt7286456/,2026-10-09 22:04:15
+92,Attack on Titan: The Last Attack,2024,8.9,38449,2h 25m,"Animation, Action, Adventure",https://www.imdb.com/title/tt33175825/,2026-10-09 22:04:15
+93,Toy Story 3,2010,8.3,993153,1h 43m,"Animation, Adventure, Comedy",https://www.imdb.com/title/tt0435761/,2026-10-09 22:04:15
+94,Star Wars: Episode VI - Return of the Jedi,1983,8.3,1226322,2h 11m,"Action, Adventure, Fantasy",https://www.imdb.com/title/tt0086190/,2026-10-09 22:04:15
+95,Come and See,1985,8.3,127169,2h 22m,"Drama, Thriller, War",https://www.imdb.com/title/tt0091251/,2026-10-09 22:04:15
+96,Requiem for a Dream,2000,8.3,987028,1h 42m,Drama,https://www.imdb.com/title/tt0180093/,2026-10-09 22:04:15
+97,Incendies,2010,8.3,260862,2h 11m,"Drama, Mystery, War",https://www.imdb.com/title/tt1255953/,2026-10-09 22:04:15
+98,Ikiru,1952,8.3,104275,2h 23m,Drama,https://www.imdb.com/title/tt0044741/,2026-10-09 22:04:15
+99,The Hunt,2012,8.3,420135,1h 55m,Drama,https://www.imdb.com/title/tt2106476/,2026-10-09 22:04:15
+100,Eternal Sunshine of the Spotless Mind,2004,8.3,1198859,1h 48m,"Drama, Romance, Sci-Fi",https://www.imdb.com/title/tt0338013/,2026-10-09 22:04:15
+101,The Apartment,1960,8.3,223612,2h 5m,"Comedy, Drama, Romance",https://www.imdb.com/title/tt0053604/,2026-10-09 22:04:15
+102,Lawrence of Arabia,1962,8.3,347061,3h 47m,"Adventure, Biography, Drama",https://www.imdb.com/title/tt0056172/,2026-10-09 22:04:15
+103,Heat,1995,8.3,820736,2h 50m,"Action, Crime, Drama",https://www.imdb.com/title/tt0113277/,2026-10-09 22:04:15
+104,Scarface,1983,8.3,1037649,2h 50m,"Crime, Drama",https://www.imdb.com/title/tt0086250/,2026-10-09 22:04:15
+105,Reservoir Dogs,1992,8.2,1184010,1h 39m,"Crime, Thriller",https://www.imdb.com/title/tt0105236/,2026-10-09 22:04:15
+106,Up,2009,8.3,1259077,1h 36m,"Animation, Adventure, Comedy",https://www.imdb.com/title/tt1049413/,2026-10-09 22:04:15
+107,2001: A Space Odyssey,1968,8.3,794656,2h 29m,"Adventure, Sci-Fi",https://www.imdb.com/title/tt0062622/,2026-10-09 22:04:15
+108,Double Indemnity,1944,8.3,183614,1h 47m,"Crime, Drama, Film-Noir",https://www.imdb.com/title/tt0036775/,2026-10-09 22:04:15
+109,Like Stars on Earth,2007,8.3,236880,2h 42m,"Drama, Family",https://www.imdb.com/title/tt0986264/,2026-10-09 22:04:15
+110,North by Northwest,1959,8.2,372343,2h 16m,"Action, Adventure, Drama",https://www.imdb.com/title/tt0053125/,2026-10-09 22:04:15
+111,Full Metal Jacket,1987,8.2,861423,1h 56m,"Drama, War",https://www.imdb.com/title/tt0093058/,2026-10-09 22:04:15
+112,A Separation,2011,8.3,281020,2h 3m,Drama,https://www.imdb.com/title/tt1832382/,2026-10-09 22:04:15
+113,Die Hard,1988,8.2,1041803,2h 12m,"Action, Thriller",https://www.imdb.com/title/tt0095016/,2026-10-09 22:04:15
+114,I Swear,2025,8.3,68384,2h,"Biography, Drama",https://www.imdb.com/title/tt31514146/,2026-10-09 22:04:15
+115,M,1931,8.3,184763,1h 39m,"Crime, Mystery, Thriller",https://www.imdb.com/title/tt0022100/,2026-10-09 22:04:15
+116,Amélie,2001,8.2,848442,2h 2m,"Comedy, Romance",https://www.imdb.com/title/tt0211915/,2026-10-09 22:04:15
+117,To Kill a Mockingbird,1962,8.2,353789,2h 9m,"Crime, Drama",https://www.imdb.com/title/tt0056592/,2026-10-09 22:04:15
+118,Vertigo,1958,8.2,463764,2h 8m,"Mystery, Romance, Thriller",https://www.imdb.com/title/tt0052357/,2026-10-09 22:04:15
+119,Indiana Jones and the Last Crusade,1989,8.2,873070,2h 7m,Adventure,https://www.imdb.com/title/tt0097576/,2026-10-09 22:04:15
+120,Citizen Kane,1941,8.2,497524,1h 59m,"Drama, Mystery",https://www.imdb.com/title/tt0033467/,2026-10-09 22:04:15
+121,The Sting,1973,8.2,306784,2h 9m,"Comedy, Crime, Drama",https://www.imdb.com/title/tt0070735/,2026-10-09 22:04:15
+122,A Clockwork Orange,1971,8.2,946770,2h 16m,"Crime, Sci-Fi",https://www.imdb.com/title/tt0066921/,2026-10-09 22:04:15
+123,Metropolis,1927,8.2,203503,2h 30m,"Drama, Sci-Fi",https://www.imdb.com/title/tt0017136/,2026-10-09 22:04:15
+124,The Truman Show,1998,8.2,1411426,1h 43m,"Comedy, Drama",https://www.imdb.com/title/tt0120382/,2026-10-09 22:04:15
+125,The Wolf of Wall Street,2013,8.2,1830902,3h,"Biography, Comedy, Crime",https://www.imdb.com/title/tt0993846/,2026-10-09 22:04:15
+126,1917,2019,8.2,788514,1h 59m,"Drama, War",https://www.imdb.com/title/tt8579674/,2026-10-09 22:04:15
+127,Snatch,2000,8.2,987660,1h 42m,"Comedy, Crime",https://www.imdb.com/title/tt0208092/,2026-10-09 22:04:15
+128,Shutter Island,2010,8.2,1689576,2h 18m,"Mystery, Thriller",https://www.imdb.com/title/tt1130884/,2026-10-09 22:04:15
+129,Downfall,2004,8.2,404655,2h 36m,"Biography, Drama, History",https://www.imdb.com/title/tt0363163/,2026-10-09 22:04:15
+130,L.A. Confidential,1997,8.2,664924,2h 18m,"Crime, Drama, Mystery",https://www.imdb.com/title/tt0119488/,2026-10-09 22:04:15
+131,Green Book,2018,8.2,706927,2h 10m,"Biography, Comedy, Drama",https://www.imdb.com/title/tt6966692/,2026-10-09 22:04:15
+132,Dangal,2016,8.3,248985,2h 41m,"Action, Biography, Drama",https://www.imdb.com/title/tt5074352/,2026-10-09 22:04:15
+133,Bicycle Thieves,1948,8.2,193701,1h 29m,Drama,https://www.imdb.com/title/tt0040522/,2026-10-09 22:04:15
+134,Woman in the Dunes,1964,8.4,26752,2h 27m,"Drama, Thriller",https://www.imdb.com/title/tt0058625/,2026-10-09 22:04:15
+135,Judgment at Nuremberg,1961,8.3,98761,2h 59m,"Drama, History, War",https://www.imdb.com/title/tt0055031/,2026-10-09 22:04:15
+136,Jurassic Park,1993,8.2,1202169,2h 7m,"Adventure, Sci-Fi",https://www.imdb.com/title/tt0107290/,2026-10-09 22:04:15
+137,Batman Begins,2005,8.2,1748446,2h 20m,Crime,https://www.imdb.com/title/tt0372784/,2026-10-09 22:04:15
+138,Oppenheimer,2023,8.2,1103855,3h,"Biography, Drama, History",https://www.imdb.com/title/tt15398776/,2026-10-09 22:04:15
+139,For a Few Dollars More,1965,8.2,304690,2h 12m,"Drama, Western",https://www.imdb.com/title/tt0059578/,2026-10-09 22:04:15
+140,Hamilton,2020,8.3,143346,2h 40m,"Biography, Drama, History",https://www.imdb.com/title/tt8503618/,2026-10-09 22:04:15
+141,There Will Be Blood,2007,8.2,721168,2h 38m,Drama,https://www.imdb.com/title/tt0469494/,2026-10-09 22:04:15
+142,Some Like It Hot,1959,8.2,307927,2h 1m,"Comedy, Music, Romance",https://www.imdb.com/title/tt0053291/,2026-10-09 22:04:15
+143,Taxi Driver,1976,8.2,1044818,1h 54m,"Crime, Drama",https://www.imdb.com/title/tt0075314/,2026-10-09 22:04:15
+144,The Father,2020,8.2,250693,1h 37m,"Drama, Mystery",https://www.imdb.com/title/tt10272386/,2026-10-09 22:04:15
+145,The Sixth Sense,1999,8.2,1168388,1h 47m,"Drama, Mystery, Thriller",https://www.imdb.com/title/tt0167404/,2026-10-09 22:04:15
+146,The Kid,1921,8.2,147401,1h 8m,"Comedy, Drama, Family",https://www.imdb.com/title/tt0012349/,2026-10-09 22:04:15
+147,All About Eve,1950,8.2,150856,2h 18m,Drama,https://www.imdb.com/title/tt0042192/,2026-10-09 22:04:15
+148,Ran,1985,8.2,155144,2h 40m,"Action, Drama, War",https://www.imdb.com/title/tt0089881/,2026-10-09 22:04:15
+149,Casino,1995,8.2,629502,2h 58m,"Crime, Drama",https://www.imdb.com/title/tt0112641/,2026-10-09 22:04:15
+150,The Thing,1982,8.2,537725,1h 49m,"Horror, Mystery, Sci-Fi",https://www.imdb.com/title/tt0084787/,2026-10-09 22:04:15
+151,No Country for Old Men,2007,8.2,1217214,2h 2m,"Crime, Drama, Thriller",https://www.imdb.com/title/tt0477348/,2026-10-09 22:04:15
+152,Prisoners,2013,8.2,962646,2h 33m,"Crime, Drama, Mystery",https://www.imdb.com/title/tt1392214/,2026-10-09 22:04:15
+153,Top Gun: Maverick,2022,8.2,908700,2h 10m,"Action, Drama",https://www.imdb.com/title/tt1745960/,2026-10-09 22:04:15
+154,Kill Bill: Vol. 1,2003,8.2,1327901,1h 51m,"Action, Crime, Thriller",https://www.imdb.com/title/tt0266697/,2026-10-09 22:04:15
+155,Pan's Labyrinth,2006,8.2,754447,1h 58m,"Drama, Fantasy, War",https://www.imdb.com/title/tt0457430/,2026-10-09 22:04:15
+156,Unforgiven,1992,8.2,473667,2h 10m,"Drama, Western",https://www.imdb.com/title/tt0105695/,2026-10-09 22:04:15
+157,A Beautiful Mind,2001,8.2,1065650,2h 15m,"Biography, Drama, Mystery",https://www.imdb.com/title/tt0268978/,2026-10-09 22:04:15
+158,Howl's Moving Castle,2004,8.2,523273,1h 59m,"Animation, Adventure, Family",https://www.imdb.com/title/tt0347149/,2026-10-09 22:04:15
+159,The Treasure of the Sierra Madre,1948,8.2,142975,2h 6m,"Adventure, Drama, Western",https://www.imdb.com/title/tt0040897/,2026-10-09 22:04:15
+160,Finding Nemo,2003,8.2,1227816,1h 40m,"Animation, Adventure, Comedy",https://www.imdb.com/title/tt0266543/,2026-10-09 22:04:15
+161,Klaus,2019,8.2,243427,1h 36m,"Animation, Adventure, Comedy",https://www.imdb.com/title/tt4729430/,2026-10-09 22:04:15
+162,Project Hail Mary,2026,8.2,571337,2h 36m,"Adventure, Comedy, Sci-Fi",https://www.imdb.com/title/tt12042730/,2026-10-09 22:04:15
+163,Demon Slayer: Kimetsu No Yaiba Infinity Castle,2025,8.3,87127,2h 35m,"Animation, Action, Adventure",https://www.imdb.com/title/tt32820897/,2026-10-09 22:04:15
+164,Yojimbo,1961,8.2,145037,1h 50m,"Action, Drama, Thriller",https://www.imdb.com/title/tt0055630/,2026-10-09 22:04:15
+165,The Elephant Man,1980,8.2,285119,2h 4m,"Biography, Drama",https://www.imdb.com/title/tt0080678/,2026-10-09 22:04:15
+166,The Great Escape,1963,8.2,280641,2h 52m,"Adventure, Drama, Thriller",https://www.imdb.com/title/tt0057115/,2026-10-09 22:04:15
+167,Monty Python and the Holy Grail,1975,8.1,608868,1h 31m,"Adventure, Comedy, Fantasy",https://www.imdb.com/title/tt0071853/,2026-10-09 22:04:15
+168,Dial M for Murder,1954,8.1,207515,1h 45m,"Crime, Drama, Mystery",https://www.imdb.com/title/tt0046912/,2026-10-09 22:04:15
+169,The Secret in Their Eyes,2009,8.2,245947,2h 9m,"Drama, Mystery, Romance",https://www.imdb.com/title/tt1305806/,2026-10-09 22:04:15
+170,Gone with the Wind,1939,8.2,359343,3h 58m,"Drama, Romance, War",https://www.imdb.com/title/tt0031381/,2026-10-09 22:04:15
+171,"Lock, Stock and Two Smoking Barrels",1998,8.1,655356,1h 47m,"Comedy, Crime",https://www.imdb.com/title/tt0120735/,2026-10-09 22:04:15
+172,Catch Me If You Can,2002,8.1,1268562,2h 21m,"Biography, Crime, Drama",https://www.imdb.com/title/tt0264464/,2026-10-09 22:04:15
+173,Chinatown,1974,8.1,380954,2h 10m,"Drama, Mystery, Thriller",https://www.imdb.com/title/tt0071315/,2026-10-09 22:04:15
+174,V for Vendetta,2005,8.1,1258125,2h 12m,"Action, Drama, Sci-Fi",https://www.imdb.com/title/tt0434409/,2026-10-09 22:04:15
+175,Dead Poets Society,1989,8.1,671912,2h 8m,"Comedy, Drama",https://www.imdb.com/title/tt0097165/,2026-10-09 22:04:15
+176,The Best of Youth,2003,8.4,28899,6h 14m,"Drama, Romance",https://www.imdb.com/title/tt0346336/,2026-10-09 22:04:15
+177,Inside Out,2015,8.1,935264,1h 35m,"Animation, Adventure, Comedy",https://www.imdb.com/title/tt2096673/,2026-10-09 22:04:15
+178,Trainspotting,1996,8.1,776027,1h 33m,"Crime, Drama",https://www.imdb.com/title/tt0117951/,2026-10-09 22:04:15
+179,Harry Potter and the Deathly Hallows: Part 2,2011,8.1,1065470,2h 10m,"Adventure, Family, Fantasy",https://www.imdb.com/title/tt1201607/,2026-10-09 22:04:15
+180,"Three Billboards Outside Ebbing, Missouri",2017,8.1,617573,1h 55m,"Comedy, Crime, Drama",https://www.imdb.com/title/tt5027774/,2026-10-09 22:04:15
+181,The Bridge on the River Kwai,1957,8.1,251859,2h 41m,"Adventure, Drama, War",https://www.imdb.com/title/tt0050212/,2026-10-09 22:04:15
+182,Rashomon,1950,8.1,199150,1h 28m,"Crime, Drama, Mystery",https://www.imdb.com/title/tt0042876/,2026-10-09 22:04:15
+183,Barry Lyndon,1975,8.1,209027,3h 5m,"Adventure, Drama, War",https://www.imdb.com/title/tt0072684/,2026-10-09 22:04:15
+184,Ben-Hur,1959,8.1,274017,3h 32m,"Adventure, Drama",https://www.imdb.com/title/tt0052618/,2026-10-09 22:04:15
+185,The Wild Robot,2024,8.1,239676,1h 42m,"Animation, Adventure, Family",https://www.imdb.com/title/tt29623480/,2026-10-09 22:04:15
+186,Warrior,2011,8.1,534494,2h 20m,"Action, Drama, Sport",https://www.imdb.com/title/tt1291584/,2026-10-09 22:04:15
+187,Hacksaw Ridge,2016,8.1,699266,2h 19m,"Biography, Drama, History",https://www.imdb.com/title/tt2119532/,2026-10-09 22:04:15
+188,Ratatouille,2007,8.1,968967,1h 51m,"Animation, Adventure, Comedy",https://www.imdb.com/title/tt0382932/,2026-10-09 22:04:15
+189,Mad Max: Fury Road,2015,8.1,1223563,2h,"Action, Adventure, Sci-Fi",https://www.imdb.com/title/tt1392190/,2026-10-09 22:04:15
+190,Million Dollar Baby,2004,8.1,774999,2h 12m,"Drama, Sport",https://www.imdb.com/title/tt0405159/,2026-10-09 22:04:15
+191,Fargo,1996,8.1,799479,1h 38m,"Crime, Drama, Thriller",https://www.imdb.com/title/tt0116282/,2026-10-09 22:04:15
+192,Children of Heaven,1997,8.2,91573,1h 29m,"Drama, Family, Sport",https://www.imdb.com/title/tt0118849/,2026-10-09 22:04:15
+193,My Neighbor Totoro,1988,8.1,441187,1h 26m,"Animation, Adventure, Comedy",https://www.imdb.com/title/tt0096283/,2026-10-09 22:04:15
+194,Gran Torino,2008,8.1,871734,1h 56m,Drama,https://www.imdb.com/title/tt1205489/,2026-10-09 22:04:15
+195,Raging Bull,1980,8.1,415024,2h 9m,"Biography, Drama, Sport",https://www.imdb.com/title/tt0081398/,2026-10-09 22:04:15
+196,12 Years a Slave,2013,8.1,796143,2h 14m,"Biography, Drama, History",https://www.imdb.com/title/tt2024544/,2026-10-09 22:04:15
+197,How to Train Your Dragon,2010,8.1,910949,1h 38m,"Animation, Action, Adventure",https://www.imdb.com/title/tt0892769/,2026-10-09 22:04:15
+198,Memories of Murder,2003,8.1,276644,2h 11m,"Crime, Drama, Mystery",https://www.imdb.com/title/tt0353969/,2026-10-09 22:04:15
+199,The Grand Budapest Hotel,2014,8.1,988889,1h 39m,"Comedy, Drama",https://www.imdb.com/title/tt2278388/,2026-10-09 22:04:15
+200,Before Sunrise,1995,8.1,385277,1h 41m,"Comedy, Drama, Romance",https://www.imdb.com/title/tt0112471/,2026-10-09 22:04:15
+201,"Monsters, Inc.",2001,8.1,1094107,1h 32m,"Animation, Adventure, Comedy",https://www.imdb.com/title/tt0198781/,2026-10-09 22:04:15
+202,Blade Runner,1982,8.1,893375,1h 57m,"Action, Drama, Sci-Fi",https://www.imdb.com/title/tt0083658/,2026-10-09 22:04:15
+203,Gone Girl,2014,8.1,1191010,2h 29m,"Drama, Mystery, Thriller",https://www.imdb.com/title/tt2267998/,2026-10-09 22:04:15
+204,Ford v Ferrari,2019,8.1,589047,2h 32m,"Action, Biography, Drama",https://www.imdb.com/title/tt1950186/,2026-10-09 22:04:15
+205,Jaws,1975,8.1,751677,2h 4m,"Adventure, Drama, Horror",https://www.imdb.com/title/tt0073195/,2026-10-09 22:04:15
+206,In the Name of the Father,1993,8.1,205133,2h 13m,"Biography, Crime, Drama",https://www.imdb.com/title/tt0107207/,2026-10-09 22:04:15
+207,Chainsaw Man - The Movie: Reze Arc,2025,8.3,70504,1h 40m,"Animation, Action, Adventure",https://www.imdb.com/title/tt30472557/,2026-10-09 22:04:15
+208,Spider-Man: No Way Home,2021,8.1,1080075,2h 28m,"Action, Adventure, Fantasy",https://www.imdb.com/title/tt10872600/,2026-10-09 22:04:15
+209,Wild Tales,2014,8.1,242173,2h 2m,"Comedy, Drama, Thriller",https://www.imdb.com/title/tt3011894/,2026-10-09 22:04:15
+210,A Silent Voice: The Movie,2016,8.2,151383,2h 10m,"Animation, Drama",https://www.imdb.com/title/tt5323662/,2026-10-09 22:04:15
+211,The Gold Rush,1925,8.1,129386,1h 35m,"Adventure, Comedy, Drama",https://www.imdb.com/title/tt0015864/,2026-10-09 22:04:15
+212,Sherlock Jr.,1924,8.1,67232,45m,"Action, Comedy, Romance",https://www.imdb.com/title/tt0015324/,2026-10-09 22:04:15
+213,Mary and Max,2009,8.1,203764,1h 32m,"Animation, Comedy, Drama",https://www.imdb.com/title/tt0978762/,2026-10-09 22:04:15
+214,The Deer Hunter,1978,8.1,390346,3h 3m,"Drama, War",https://www.imdb.com/title/tt0077416/,2026-10-09 22:04:15
+215,Logan,2017,8.1,943214,2h 17m,"Action, Drama, Sci-Fi",https://www.imdb.com/title/tt3315342/,2026-10-09 22:04:15
+216,The Wages of Fear,1953,8.1,74581,2h 36m,"Adventure, Drama, Thriller",https://www.imdb.com/title/tt0046268/,2026-10-09 22:04:15
+217,Pirates of the Caribbean: The Curse of the Black Pearl,2003,8.1,1348710,2h 23m,"Action, Adventure, Fantasy",https://www.imdb.com/title/tt0325980/,2026-10-09 22:04:15
+218,Rocky,1976,8.1,703634,2h,"Drama, Sport",https://www.imdb.com/title/tt0075148/,2026-10-09 22:04:15
+219,The General,1926,8.1,106420,1h 18m,"Action, Adventure, Comedy",https://www.imdb.com/title/tt0017925/,2026-10-09 22:04:15
+220,Mr. Smith Goes to Washington,1939,8.1,130689,2h 9m,"Comedy, Drama",https://www.imdb.com/title/tt0031679/,2026-10-09 22:04:15
+221,Tokyo Story,1953,8.1,79053,2h 17m,Drama,https://www.imdb.com/title/tt0046438/,2026-10-09 22:04:15
+222,La haine,1995,8.1,232573,1h 38m,"Crime, Drama",https://www.imdb.com/title/tt0113247/,2026-10-09 22:04:15
+223,Maharaja,2024,8.3,86291,2h 21m,"Action, Crime, Drama",https://www.imdb.com/title/tt26548265/,2026-10-09 22:04:15
+224,Spotlight,2015,8.1,541990,2h 9m,"Biography, Crime, Drama",https://www.imdb.com/title/tt1895587/,2026-10-09 22:04:15
+225,The Sound of Music,1965,8.1,296010,2h 54m,"Biography, Drama, Family",https://www.imdb.com/title/tt0059742/,2026-10-09 22:04:15
+226,Jai Bhim,2021,8.6,236827,2h 44m,"Crime, Drama",https://www.imdb.com/title/tt15097216/,2026-10-09 22:04:15
+227,The Terminator,1984,8.1,1020780,1h 47m,"Action, Adventure, Sci-Fi",https://www.imdb.com/title/tt0088247/,2026-10-09 22:04:15
+228,Wild Strawberries,1957,8.1,126063,1h 32m,"Drama, Romance",https://www.imdb.com/title/tt0050986/,2026-10-09 22:04:15
+229,On the Waterfront,1954,8.1,181622,1h 48m,"Crime, Drama, Thriller",https://www.imdb.com/title/tt0047296/,2026-10-09 22:04:15
+230,The Best Years of Our Lives,1946,8.1,77315,2h 50m,"Drama, Romance, War",https://www.imdb.com/title/tt0036868/,2026-10-09 22:04:15
+231,The Third Man,1949,8.1,197746,1h 44m,"Drama, Film-Noir, Mystery",https://www.imdb.com/title/tt0041959/,2026-10-09 22:04:15
+232,The Big Lebowski,1998,8.1,925938,1h 57m,"Comedy, Crime",https://www.imdb.com/title/tt0118715/,2026-10-09 22:04:15
+233,The Incredibles,2004,8.0,919675,1h 55m,"Animation, Action, Adventure",https://www.imdb.com/title/tt0317705/,2026-10-09 22:04:15
+234,Hachi: A Dog's Tale,2009,8.1,349279,1h 33m,"Biography, Drama, Family",https://www.imdb.com/title/tt1028532/,2026-10-09 22:04:15
+235,Before Sunset,2004,8.1,320451,1h 20m,"Drama, Romance",https://www.imdb.com/title/tt0381681/,2026-10-09 22:04:15
+236,The Exorcist,1973,8.1,506243,2h 2m,Horror,https://www.imdb.com/title/tt0070047/,2026-10-09 22:04:15
+237,The Iron Giant,1999,8.1,266448,1h 26m,"Animation, Action, Adventure",https://www.imdb.com/title/tt0129167/,2026-10-09 22:04:15
+238,Room,2015,8.1,485698,1h 58m,"Drama, Thriller",https://www.imdb.com/title/tt3170832/,2026-10-09 22:04:15
+239,Hotel Rwanda,2004,8.1,395375,2h 1m,"Biography, Drama, History",https://www.imdb.com/title/tt0395169/,2026-10-09 22:04:15
+240,Platoon,1986,8.0,478116,2h,"Drama, War",https://www.imdb.com/title/tt0091763/,2026-10-09 22:04:15
+241,The Seventh Seal,1957,8.1,218253,1h 36m,"Drama, Fantasy",https://www.imdb.com/title/tt0050976/,2026-10-09 22:04:15
+242,Rush,2013,8.1,568042,2h 3m,"Biography, Drama, Sport",https://www.imdb.com/title/tt1979320/,2026-10-09 22:04:15
+243,Stand by Me,1986,8.1,496307,1h 29m,"Adventure, Drama",https://www.imdb.com/title/tt0092005/,2026-10-09 22:04:15
+244,The Battle of Algiers,1966,8.1,77220,2h 1m,"Drama, War",https://www.imdb.com/title/tt0058946/,2026-10-09 22:04:15
+245,The Wizard of Oz,1939,8.1,473624,1h 42m,"Adventure, Family, Fantasy",https://www.imdb.com/title/tt0032138/,2026-10-09 22:04:15
+246,My Father and My Son,2005,8.2,102471,1h 52m,Drama,https://www.imdb.com/title/tt0476735/,2026-10-09 22:04:15
+247,The Chaos Class Failed the Class,1975,8.3,31660,1h 35m,Comedy,https://www.imdb.com/title/tt0252488/,2026-10-09 22:04:15
+248,The Passion of Joan of Arc,1928,8.1,69469,1h 54m,"Biography, Drama, History",https://www.imdb.com/title/tt0019254/,2026-10-09 22:04:15
+249,Drishyam,2015,8.2,111721,2h 43m,"Crime, Drama, Mystery",https://www.imdb.com/title/tt4430212/,2026-10-09 22:04:15
+250,Andhadhun,2018,8.2,118609,2h 19m,"Comedy, Crime, Mystery",https://www.imdb.com/title/tt8108198/,2026-10-09 22:04:15
