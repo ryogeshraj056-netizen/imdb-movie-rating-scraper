@@ -4,20 +4,20 @@
 ---
 
 ### **Submitted in partial fulfillment of the requirements for the degree of**
-### **BACHELOR OF COMPUTER SCIENCE / ENGINEERING / APPLICATIONS**
+### **BACHELOR OF ARTIFICIAL INTELLIGENCE AND DATASCIENCE / TECHNOLOGY / APPLICATIONS**
 
 ---
 
 **Submitted By:**  
-**YOGESH**  
-*Department of Computer Science and Engineering*  
+**YOGESHRAJ**  
+*Department of Artificial Intelligence and Datascience*  
 *Academic Year: 2026 – 2027*
 
 ---
 
 ## 📋 BONAFIDE CERTIFICATE
 
-This is to certify that the project report entitled **"IMDb MOVIE RATING SCRAPER & DATA ANALYZER"** is a bonafide work carried out by **YOGESH** in partial fulfillment for the award of Bachelor's Degree in Computer Science / Engineering.
+This is to certify that the project report entitled **"IMDb MOVIE RATING SCRAPER & DATA ANALYZER"** is a bonafide work carried out by **YOGESHRAJ** in partial fulfillment for the award of Bachelor's Degree in Artificial Intelligence and Datascience
 
 <br><br>
 
